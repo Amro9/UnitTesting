@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace TestNinja.Mocking
+namespace TestNinja.MockingIgnored
 {
     public class InstallerHelper
     {
@@ -21,7 +21,7 @@ namespace TestNinja.Mocking
             }
             catch (WebException)
             {
-                return false; 
+                return false;
             }
         }
     }

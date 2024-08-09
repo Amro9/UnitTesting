@@ -1,6 +1,6 @@
 ﻿using System.Data.Entity;
 
-namespace TestNinja.Mocking
+namespace TestNinja.MockingIgnored
 {
     public class EmployeeController
     {
@@ -26,9 +26,9 @@ namespace TestNinja.Mocking
     }
 
     public class ActionResult { }
- 
+
     public class RedirectResult : ActionResult { }
-    
+
     public class EmployeeContext
     {
         public DbSet<Employee> Employees { get; set; }

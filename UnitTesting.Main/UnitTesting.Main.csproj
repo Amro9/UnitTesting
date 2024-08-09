@@ -48,22 +48,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FundamentalsExample\CustomerController.cs" />
-    <Compile Include="FundamentalsExample\DateHelper.cs" />
-    <Compile Include="FundamentalsExample\DemeritPointsCalculator.cs" />
-    <Compile Include="FundamentalsExample\ErrorLogger.cs" />
+    <Compile Include="FundamentalsIgnored\CustomerController.cs" />
+    <Compile Include="FundamentalsIgnored\DateHelper.cs" />
+    <Compile Include="FundamentalsIgnored\DemeritPointsCalculator.cs" />
+    <Compile Include="FundamentalsIgnored\ErrorLogger.cs" />
     <Compile Include="FundamentalsExample\FizzBuzz.cs" />
-    <Compile Include="FundamentalsExample\HtmlFormatter.cs" />
+    <Compile Include="FundamentalsIgnored\HtmlFormatter.cs" />
     <Compile Include="FundamentalsExample\Math.cs" />
-    <Compile Include="FundamentalsExample\PhoneNumber.cs" />
-    <Compile Include="FundamentalsExample\Reservation.cs" />
+    <Compile Include="FundamentalsIgnored\PhoneNumber.cs" />
+    <Compile Include="FundamentalsIgnored\Reservation.cs" />
     <Compile Include="FundamentalsExample\Stack.cs" />
-    <Compile Include="MockingExample\BookingHelper.cs" />
+    <Compile Include="MockingIgnored\BookingHelper.cs" />
     <Compile Include="MockingExample\CustomExceptions\VideoTitleIsNullException.cs" />
-    <Compile Include="MockingExample\EmployeeController.cs" />
-    <Compile Include="MockingExample\InstallerHelper.cs" />
-    <Compile Include="MockingExample\OrderService.cs" />
-    <Compile Include="MockingExample\Product.cs" />
+    <Compile Include="MockingIgnored\EmployeeController.cs" />
+    <Compile Include="MockingIgnored\InstallerHelper.cs" />
+    <Compile Include="MockingIgnored\OrderService.cs" />
+    <Compile Include="MockingIgnored\Product.cs" />
     <Compile Include="MockingExample\Services\FileReader.cs" />
     <Compile Include="MockingExample\Interfaces\IFileReader.cs" />
     <Compile Include="MockingExample\Models\Video.cs" />

@@ -1,4 +1,4 @@
-﻿namespace TestNinja.Mocking
+﻿namespace TestNinja.MockingIgnored
 {
     public class Product
     {

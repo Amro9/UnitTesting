@@ -1,4 +1,4 @@
-﻿using TestNinja.Fundamentals;
+﻿using TestNinja.FundamentalsIgnored;
 
 namespace TestProject1
 {
