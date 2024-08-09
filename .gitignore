@@ -15,7 +15,8 @@
 
 # Mono auto generated files
 mono_crash.*
-
+FundamentalsIgnored/
+MockingIgnored/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
