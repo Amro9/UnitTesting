@@ -48,22 +48,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FundamentalsIgnored\CustomerController.cs" />
-    <Compile Include="FundamentalsIgnored\DateHelper.cs" />
-    <Compile Include="FundamentalsIgnored\DemeritPointsCalculator.cs" />
-    <Compile Include="FundamentalsIgnored\ErrorLogger.cs" />
     <Compile Include="FundamentalsExample\FizzBuzz.cs" />
-    <Compile Include="FundamentalsIgnored\HtmlFormatter.cs" />
     <Compile Include="FundamentalsExample\Math.cs" />
-    <Compile Include="FundamentalsIgnored\PhoneNumber.cs" />
-    <Compile Include="FundamentalsIgnored\Reservation.cs" />
     <Compile Include="FundamentalsExample\Stack.cs" />
-    <Compile Include="MockingIgnored\BookingHelper.cs" />
     <Compile Include="MockingExample\CustomExceptions\VideoTitleIsNullException.cs" />
-    <Compile Include="MockingIgnored\EmployeeController.cs" />
-    <Compile Include="MockingIgnored\InstallerHelper.cs" />
-    <Compile Include="MockingIgnored\OrderService.cs" />
-    <Compile Include="MockingIgnored\Product.cs" />
     <Compile Include="MockingExample\Services\FileReader.cs" />
     <Compile Include="MockingExample\Interfaces\IFileReader.cs" />
     <Compile Include="MockingExample\Models\Video.cs" />
